@@ -1,6 +1,6 @@
 <img align="center" alt="coding" width="1000" src="https://github.com/harithavishva/HarithaBGIMAGE/blob/main/Captureeee.PNG">
 
-<h1 align="center">Hi 👋, I'm Haritha V</h1>
+<h1 align="center">Hey there!🙂, I'm Haritha V</h1>
 <h3 align="center">I skilled at MERN full stack to build a responsive web application and I'm seeking a beginner role to enhance and explore my technical knowledge.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
